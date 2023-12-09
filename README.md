@@ -9,3 +9,20 @@ A CNN-based system to identify writers from Bengali and English handwritten char
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 In the code section, you will find all the codes from resizing the images to training the model. In the 'Extras' folder use the 'gpu_async' code to make TensorFlow use Nvidia GPU and CUDA.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Python version: 3.9.13
+Tensorflow: 2.7.0 
+Nvidia CUDA: 11.2.0
+Nvidia cuDNN: 8.1.1
+
+List of Python Libraries Used:- 
+os
+numpy
+cv2
+PIL
+shutil
+matplotlib.pyplot
+tensorflow
+keras
+tensorflow.keras
+sklearn.model_selection
+tensorflow.keras.optimizers
